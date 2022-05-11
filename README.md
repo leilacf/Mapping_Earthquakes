@@ -1,5 +1,5 @@
 # Mapping_Earthquakes
-The purpose of this project was to utilize JavaScript and Leaflet to create an interactive earthquake map. Please note that the final documents have been uploaded in the Earthquake_Challenge directory. To run an API key from Mapbox is needed, which was not included above as a general safe practice. 
+The purpose of this project was to utilize JavaScript and Leaflet to create an interactive earthquake map. Please note that the final documents have been uploaded in the Earthquake_Challenge directory. To run the code, an API key from Mapbox is needed, which was not included above as a general safe practice. 
 
 #### Overview 
 This interactive map highlights earthquake activity occuring globally, providing a perspicacious data visual which can help inform users on the impact of natural disasters happening as close as in their own land to as far as other continents. 
