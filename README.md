@@ -12,7 +12,7 @@ The map contains:
 
 Additionally, the earthquake markers tell a story themselves--their diameter and color demonstrate the intensity of the seismic waves. When one clicks on the markers, a popup text appears showing location and magnitude information.
 
-[!This is an image]"https://github.com/leilacf/Mapping_Earthquakes/blob/main/Dark%20mode%20map.png" 
+![This is an image](https://github.com/leilacf/Mapping_Earthquakes/blob/main/Dark%20mode%20map.png)
 
 #### Process
 To create this interactive map, the following tools were used:
